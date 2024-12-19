@@ -1,0 +1,101 @@
+city,location,country,pollutants,last_updated
+,Montara Ave ES (6878),US,"['pm25', 'relativehumidity', 'pm10', 'temperature', 'temperature', 'pm1']",2024-12-19T04:07:05+00:00
+,West Hollywood ES (7649),US,"['temperature', 'temperature', 'pm10', 'pm25', 'pm1']",2024-12-19T04:07:03+00:00
+,Chamber of Commerce,US,['pm25'],2024-12-19T04:07:03+00:00
+,Sunny Brae ES (6986),US,"['pm25', 'pm10', 'temperature', 'pm1', 'temperature']",2024-12-19T04:07:02+00:00
+,Purche ES (6158),US,"['pm1', 'temperature', 'pm25', 'temperature', 'pm10']",2024-12-19T04:07:01+00:00
+,Monroe HS (8768),US,"['pm1', 'pm25', 'pm10', 'relativehumidity', 'temperature', 'temperature']",2024-12-19T04:06:59+00:00
+,Summit Ave,US,['pm25'],2024-12-19T04:06:58+00:00
+,Broken Tee Golf Course,US,['pm25'],2024-12-19T04:06:58+00:00
+,Remington Park,US,['pm25'],2024-12-19T04:06:57+00:00
+,Cloverdale Veterans Center,US,['pm25'],2024-12-19T04:06:57+00:00
+,Knollwood ES (4762),US,"['temperature', 'temperature', 'relativehumidity', 'pm10', 'pm1', 'pm25']",2024-12-19T04:06:56+00:00
+,A6LHM5BD,US,['pm25'],2024-12-19T04:06:56+00:00
+,Texas Tech 02,US,['pm25'],2024-12-19T04:06:55+00:00
+,RIMAC Arena,US,['pm25'],2024-12-19T04:06:55+00:00
+,Sheridan St ES (6685),US,"['temperature', 'pm10', 'temperature', 'no2', 'relativehumidity', 'pm1', 'pm25']",2024-12-19T04:06:55+00:00
+,Southwest Elementary,US,['pm25'],2024-12-19T04:06:54+00:00
+,Saint Matthew’s church,US,['pm25'],2024-12-19T04:06:54+00:00
+,50th & MLK 02,US,['pm25'],2024-12-19T04:06:53+00:00
+,Lanai Rd ES (4764),US,"['temperature', 'no2', 'pm25', 'pm1', 'temperature', 'pm10', 'relativehumidity']",2024-12-19T04:06:52+00:00
+,Marvin ES (5178),US,"['temperature', 'pm25', 'pm1', 'temperature', 'pm10']",2024-12-19T04:06:50+00:00
+,Chatman Hill 03,US,['pm25'],2024-12-19T04:06:49+00:00
+,San Pedro ES (6507),US,"['pm25', 'temperature', 'pm10', 'pm1', 'relativehumidity', 'temperature']",2024-12-19T04:06:48+00:00
+,"Knox ES, Dr Owen Lloyd (6869)",US,"['temperature', 'pm1', 'temperature', 'pm10', 'relativehumidity', 'pm25']",2024-12-19T04:06:47+00:00
+,Guadalupe 01,US,['pm25'],2024-12-19T04:06:47+00:00
+,Amestoy ES (2096),US,"['pm1', 'pm25', 'temperature', 'pm10', 'temperature']",2024-12-19T04:06:46+00:00
+,Smoky Hill Library,US,['pm25'],2024-12-19T04:06:46+00:00
+,Chatsworth ES (3027),US,"['pm10', 'pm1', 'temperature', 'pm25', 'temperature']",2024-12-19T04:06:45+00:00
+,Quaker Heights,US,['pm25'],2024-12-19T04:06:43+00:00
+,Paideia Parking Lot 2,US,['pm25'],2024-12-19T04:06:43+00:00
+,Anderson,US,['pm25'],2024-12-19T04:06:43+00:00
+,Sierra Park ES (6753),US,"['pm25', 'pm1', 'pm10', 'temperature', 'temperature']",2024-12-19T04:06:42+00:00
+,Westwood ES (7740),US,"['relativehumidity', 'temperature', 'pm10', 'temperature', 'pm1', 'pm25']",2024-12-19T04:06:42+00:00
+,AL9FR71M,US,['pm25'],2024-12-19T04:06:41+00:00
+,Sierra Vista ES (6767),US,"['temperature', 'pm10', 'pm1', 'pm25', 'temperature']",2024-12-19T04:06:41+00:00
+,Linda,US,['pm25'],2024-12-19T04:06:41+00:00
+,Crossroads,US,['pm25'],2024-12-19T04:06:41+00:00
+,UCANR Westside REC,US,['pm25'],2024-12-19T04:06:40+00:00
+,Fern Bacon MS,US,['pm25'],2024-12-19T04:06:39+00:00
+,Taper ES (7035),US,"['pm25', 'temperature', 'pm1', 'temperature', 'pm10']",2024-12-19T04:06:38+00:00
+,Dunston Middle School,US,['pm25'],2024-12-19T04:06:38+00:00
+,694 Merrill Road - Breathe Easy Berkshires,US,['pm25'],2024-12-19T04:06:37+00:00
+,EHS Building,US,['pm25'],2024-12-19T04:06:37+00:00
+,Verdugo Hills HS (8914),US,"['pm10', 'temperature', 'pm25', 'relativehumidity', 'pm1', 'temperature']",2024-12-19T04:06:37+00:00
+, Portola Elementary,US,['pm25'],2024-12-19T04:06:36+00:00
+,I25 Denver Collocation 2,US,['pm25'],2024-12-19T04:06:35+00:00
+,St. Lukes Meridian Collocation 1,US,['pm25'],2024-12-19T04:06:34+00:00
+, Burns - Washington St. Collocation 1,US,['pm25'],2024-12-19T04:06:34+00:00
+,Columbus MS (8102),US,"['pm1', 'temperature', 'pm10', 'temperature', 'pm25']",2024-12-19T04:06:33+00:00
+,Porter Ranch Cmty Sch (2303),US,"['temperature', 'pm1', 'pm25', 'pm10', 'temperature']",2024-12-19T04:06:33+00:00
+,Quincy Park,US,['pm25'],2024-12-19T04:06:32+00:00
+,Presque Isle Downtown (ME DEP - PIRS),US,['pm25'],2024-12-19T04:06:32+00:00
+,N. Main Street Collocation,US,['pm25'],2024-12-19T04:06:32+00:00
+,Bangor (ME DEP - BMSS),US,['pm25'],2024-12-19T04:06:30+00:00
+,Sproul Hall,US,['pm25'],2024-12-19T04:06:27+00:00
+,Valley View ES (7397),US,"['relativehumidity', 'pm1', 'temperature', 'pm25', 'pm10', 'temperature']",2024-12-19T04:06:27+00:00
+,Russell ES (6438),US,"['pm10', 'temperature', 'temperature', 'pm1', 'pm25']",2024-12-19T04:06:26+00:00
+,Frank Del Olmo ES (2386),US,"['pm1', 'pm25', 'temperature', 'temperature', 'pm10', 'relativehumidity']",2024-12-19T04:06:26+00:00
+,Dyer ES (3493),US,"['temperature', 'pm25', 'temperature', 'pm10', 'pm1']",2024-12-19T04:06:26+00:00
+,Norwood & Silver Eagle,US,['pm25'],2024-12-19T04:06:24+00:00
+,Canyon ES (2795),US,"['pm25', 'temperature', 'temperature', 'pm10', 'pm1']",2024-12-19T04:06:23+00:00
+,Hamlin ES (4349),US,"['pm10', 'pm1', 'temperature', 'temperature', 'pm25']",2024-12-19T04:06:22+00:00
+,Tech Terrace,US,['pm25'],2024-12-19T04:06:22+00:00
+,"Farmers Market, Ann Arbor MI",US,['pm25'],2024-12-19T04:06:22+00:00
+,Herman Leimbach ES,US,['pm25'],2024-12-19T04:06:22+00:00
+,Sheriff Center,US,['pm25'],2024-12-19T04:06:21+00:00
+,Yellow House Canyon 02,US,['pm25'],2024-12-19T04:06:21+00:00
+,TSU ,US,['pm25'],2024-12-19T04:06:21+00:00
+,Middletown Senior Center,US,['pm25'],2024-12-19T04:06:20+00:00
+,Melonie Park,US,['pm25'],2024-12-19T04:06:19+00:00
+,COCO 2,US,['pm25'],2024-12-19T04:06:18+00:00
+,City of Golden - W. Colfax Avenue,US,['pm25'],2024-12-19T04:06:17+00:00
+,Graham ES (4219),US,"['pm10', 'temperature', 'pm1', 'temperature', 'pm25']",2024-12-19T04:06:16+00:00
+,Thornton Community Park ,US,['pm25'],2024-12-19T04:06:16+00:00
+,CNSI Roof Top,US,['pm25'],2024-12-19T04:06:16+00:00
+,North by Northwest,US,['pm25'],2024-12-19T04:06:14+00:00
+,Sherman Oaks ES (6699),US,"['pm25', 'pm1', 'relativehumidity', 'pm10', 'temperature', 'temperature']",2024-12-19T04:06:13+00:00
+,Klamath Falls - Peterson School Collocation 2,US,['pm25'],2024-12-19T04:06:12+00:00
+,Chatman Hill 04,US,['pm25'],2024-12-19T04:06:12+00:00
+,UCSF Parnassus,US,['pm25'],2024-12-19T04:06:10+00:00
+,Modini ACR,US,['pm25'],2024-12-19T04:06:09+00:00
+,Florin ES,US,['pm25'],2024-12-19T04:06:08+00:00
+,Canfield ES (2740),US,"['pm1', 'temperature', 'pm10', 'pm25', 'temperature']",2024-12-19T04:06:08+00:00
+,54th St ES (3781),US,"['temperature', 'pm1', 'pm10', 'temperature', 'pm25']",2024-12-19T04:06:07+00:00
+,EH&S Roof Top,US,['pm25'],2024-12-19T04:06:06+00:00
+,Nestle ES (5452),US,"['pm25', 'pm10', 'pm1', 'temperature', 'temperature']",2024-12-19T04:06:06+00:00
+,BARC,US,['pm25'],2024-12-19T04:06:05+00:00
+,EJ Air Community Sensor #2,US,['pm25'],2024-12-19T04:06:05+00:00
+,Lowman Sp Ed Ctr (1948),US,"['pm10', 'temperature', 'temperature', 'pm25', 'pm1']",2024-12-19T04:06:05+00:00
+,Topanga Canyon (7198),US,"['pm1', 'pm25', 'no2', 'pm10', 'temperature', 'temperature']",2024-12-19T04:06:05+00:00
+,I25 Denver Collocation 1,US,['pm25'],2024-12-19T04:06:03+00:00
+,Dixie Canyon ES (3438),US,"['temperature', 'temperature', 'pm25', 'pm10', 'pm1']",2024-12-19T04:06:02+00:00
+,Vanalden ES (7411),US,"['temperature', 'temperature', 'pm10', 'pm25', 'pm1']",2024-12-19T04:06:02+00:00
+,Norwood ES (5699),US,"['temperature', 'relativehumidity', 'pm1', 'temperature', 'pm10', 'pm25']",2024-12-19T04:06:02+00:00
+,SCRO 5,US,['pm25'],2024-12-19T04:06:02+00:00
+,CRSF (EHS Bldg),US,['pm25'],2024-12-19T04:06:00+00:00
+,Dodson MS (8110),US,"['pm10', 'pm25', 'temperature', 'pm1', 'temperature', 'relativehumidity']",2024-12-19T04:06:00+00:00
+,Castlebay Ln ES (2881),US,"['temperature', 'pm1', 'pm10', 'pm25', 'temperature']",2024-12-19T04:05:59+00:00
+,Highway 99 & 12th Ave,US,['pm25'],2024-12-19T04:05:58+00:00
+,Reseda ES (6233),US,"['pm1', 'temperature', 'relativehumidity', 'pm25', 'pm10', 'temperature']",2024-12-19T04:05:54+00:00
+,San Ardo Elementary School,US,['pm25'],2024-12-19T04:05:54+00:00
